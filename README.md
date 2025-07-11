@@ -7,7 +7,7 @@ In order for this to work you'll need make and alacritty installed,
 alternatively you can change the terminal in your "config.def.h" file inside the "dwm" directory.
 
 [Installation]
-1 Clone the repo using "git clone https://github.com/LinksEule99/Suckless-Desktop"                                                                                                                                                                                                         
+1 Clone the repo using "git clone https://github.com/LinksEule99/Suckless-Desktop.git"                                                                                                                                                                                                     
 2 Make the ".dwm" directory using "mkdir -p ~/.dwm"                                                                                                                                                                                                                                        
 3 Copy "dwm" into the ".dwm" directory in your home directory.                                                                                                                                                                                                                             
 4 Copy "dmenu" into the ".dwm" directory in your home directory.                                                                                                                                                                                                                           
