@@ -7,15 +7,15 @@ In order for this to work you'll need make and alacritty installed,
 alternatively you can change the terminal in your "config.def.h" file inside the "dwm" directory.
 
 [Installation]
-1 --> Clone the repo using "git clone https://github.com/LinksEule99/Suckless-Desktop"
-2 --> Make the ".dwm" directory using "mkdir -p ~/.dwm"
-3 --> Copy "dwm" into the ".dwm" directory in your home directory.
-4 --> Copy "dmenu" into the ".dwm" directory in your home directory.
-5 --> Copy "autostart" into the ".dwm" directory, and give it permissions by running "chmod +x autostart.sh"
-6 --> Copy "picom.conf" into "~/.config/picom"
-7 --> Now compile both "dwm" and "dmenu" by running "make" and "make clean install"
-8 --> For the final step copy the dwm.desktop file into the /usr/share/xsessions/ directory"
-9 --> (If you want the Gtk theme then download the breeze cursor pack, the Everblush gtk theme and the Papyrus icon theme and place them in the according .folders inside your home directory)
+1 Clone the repo using "git clone https://github.com/LinksEule99/Suckless-Desktop"                                                                                                                                                                                                         
+2 Make the ".dwm" directory using "mkdir -p ~/.dwm"                                                                                                                                                                                                                                        
+3 Copy "dwm" into the ".dwm" directory in your home directory.                                                                                                                                                                                                                             
+4 Copy "dmenu" into the ".dwm" directory in your home directory.                                                                                                                                                                                                                           
+5 Copy "autostart" into the ".dwm" directory, and give it permissions by running "chmod +x autostart.sh"                                                                                                                                                                                   
+6 Copy "picom.conf" into "~/.config/picom"                                                                                                                                                                                                                                                 
+7 Now compile both "dwm" and "dmenu" by running "make" and "make clean install"                                                                                                                                                                                                            
+8 For the final step copy the dwm.desktop file into the /usr/share/xsessions/ directory"                                                                                                                                                                                                   
+9 (If you want the Gtk theme then download the breeze cursor pack, the Everblush gtk theme and the Papyrus icon theme and place them in the according .folders inside your home directory)                                                                                                 
 
 [Screenshots]
 
