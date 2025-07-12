@@ -6,6 +6,16 @@ This config uses Nerd Icons as well as the Everblush colour sheme.
 In order for this to work you'll need make and alacritty installed,
 alternatively you can change the terminal in your "config.def.h" file inside the "dwm" directory.
 
+The following patches are installed:
+Attachasideandbelow,
+Autostart,
+Exitmenu,
+Preserveonrestart
+Restartsig,
+Systemtray,
+Underlinetags,
+Vanitygaps,
+
 [Installation]
 1  Clone the repo using "git clone https://github.com/LinksEule99/Suckless-Desktop.git"                                                                                                                                                                                                     
 2  Make the ".dwm" directory using "mkdir -p ~/.dwm"                                                                                                                                                                                                                                        
