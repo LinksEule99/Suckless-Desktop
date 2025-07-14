@@ -1,0 +1,67 @@
+# Ayu Dark
+# Theme create by: https://github.com/rustnomicon
+# Update by(sort by time):
+#
+# Thanks for all contributor!!
+
+# If you want to make sidebar border display just set it same as sidebar background color
+
+# Code syntax highlight theme (you can go to https://github.com/alecthomas/chroma/blob/master/styles to find one you like)
+code_syntax_highlight = "everblush"
+
+# ========= Border =========
+file_panel_border = "#1e2629"
+sidebar_border = "#1a2123"
+footer_border = "#1e2629"
+
+# ========= Border Active =========
+file_panel_border_active = "#e5c76b"
+sidebar_border_active = "#f08354"
+footer_border_active = "#8ccf7e"
+modal_border_active = "#5c6773"  # Neutral gray, unchanged
+
+# ========= Background (bg) =========
+full_screen_bg = "#141b1e"
+file_panel_bg = "#141b1e"
+sidebar_bg = "#141b1e"
+footer_bg = "#141b1e"
+modal_bg = "#141b1e"
+
+# ========= Foreground (fg) =========
+full_screen_fg = "#dadada"
+file_panel_fg = "#dadada"
+sidebar_fg = "#dadada"
+footer_fg = "#dadada"
+modal_fg = "#dadada"
+
+# ========= Special Color =========
+cursor = "#e5c76b"
+correct = "#8ccf7e"
+error = "#e57474"
+hint = "#67b0e8"
+cancel = "#e57474"
+# Gradient color can only have two colors!
+gradient_color = ["#f08354", "#67b0e8"]
+
+# ========= File Panel Special Items =========
+file_panel_top_directory_icon = "#8ccf7e"
+file_panel_top_path = "#e5c76b"
+file_panel_item_selected_fg = "#67b0e8"
+file_panel_item_selected_bg = "#1a2123"
+
+# ========= Sidebar Special Items =========
+sidebar_title = "#67b0e8"
+sidebar_item_selected_fg = "#67b0e8"
+sidebar_item_selected_bg = "#1a2123"
+sidebar_divider = "#1e2629"
+
+# ========= Modal Special Items =========
+modal_cancel_fg = "#141b1e"
+modal_cancel_bg = "#e57474"
+
+modal_confirm_fg = "#141b1e"
+modal_confirm_bg = "#67b0e8"
+
+# ========= Help Menu =========
+help_menu_hotkey = "#67b0e8"
+help_menu_title = "#e57474"
